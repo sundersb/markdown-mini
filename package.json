@@ -1,7 +1,7 @@
 {
   "name": "@sundersb/markdown-mini",
   "description": "Simple markdown to HTML converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "mocha *-test.js"

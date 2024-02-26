@@ -24,7 +24,7 @@ npm install --save @sundersb/markdown-mini
 ## Example
 
 ~~~js
-const { markdownToHtml } = requrie('@sundersb/markdown-mini');
+const { markdownToHtml } = require('@sundersb/markdown-mini');
 
 const md = `# Lorem ipsum dolor sit amet
 
